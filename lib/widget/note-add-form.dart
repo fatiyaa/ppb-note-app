@@ -58,6 +58,7 @@ class NoteAddFormState extends State<NoteAddForm> {
   @override
   Widget build(BuildContext context) {
     return FloatingActionButton(
+      backgroundColor: Colors.deepPurple[200],
       onPressed: _showAddNoteDialog,
       child: Icon(Icons.add),
     );

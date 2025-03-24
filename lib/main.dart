@@ -44,10 +44,14 @@ class MyAppState extends State<MyApp> {
     return MaterialApp(
       title: 'Notes App',
       home: Scaffold(
-        appBar: AppBar(title: const Text('Notes App')),
+        backgroundColor: Colors.deepPurple[50],
+        appBar: AppBar(
+            backgroundColor: Colors.deepPurple[200],
+            title: const Text('Notes App', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24))
+        ),
         body: Expanded(
           child: ListView(
-            padding: EdgeInsets.all(10),
+            padding: EdgeInsets.symmetric(vertical: 24, horizontal: 16),
             children:
                 notes
                     .map(
