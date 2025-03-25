@@ -2,8 +2,9 @@
 
 Video Demonstration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u_2zRfuoy5s?si=1LXMID6VUgLHxjHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Video Demo](video3383189246.mp4)
 
+Jika video tidak bisa diputar, uka di link berikut https://youtu.be/u_2zRfuoy5s
 ## Getting Started
 
 This project is a starting point for a Flutter application.
