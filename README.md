@@ -1,10 +1,13 @@
 # PPB Task 1: Create A Simple Application
 
+Dalam pengerjaan tugas ini, saya mengerjakan dari awal tanpa mengambil dari repository lain.
+
 Video Demonstration
 
 ![Video Demo](video3383189246.mp4)
 
 Jika video tidak bisa diputar, uka di link berikut https://youtu.be/u_2zRfuoy5s
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
